@@ -64,7 +64,7 @@ function checkAnswer(currentLevel) {
     }
 }
 
-// if we made the wrong pattern 
+// if we made the wrong pattern starts form zero 
 function startOver() {
     level = 0;
     gamePattern = [];
